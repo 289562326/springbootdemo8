@@ -1,0 +1,6 @@
+2018-11-20 13:57:17  INFO - Starting Application on LAPTOP-4NKCBKCL with PID 22152 (D:\07-myTutorial\00-github\blog\springbootdemo8\target\classes started by 28956 in D:\07-myTutorial\00-github\blog\springbootdemo8) (org.springframework.boot.StartupInfoLogger.logStarting:50) [main:5794]
+2018-11-20 13:57:17  INFO - No active profile set, falling back to default profiles: default (org.springframework.boot.SpringApplication.logStartupProfileInfo:662) [main:5810]
+2018-11-20 13:58:43  INFO - Starting Application on LAPTOP-4NKCBKCL with PID 12168 (D:\07-myTutorial\00-github\blog\springbootdemo8\target\classes started by 28956 in D:\07-myTutorial\00-github\blog\springbootdemo8) (org.springframework.boot.StartupInfoLogger.logStarting:50) [main:3301]
+2018-11-20 13:58:43  INFO - The following profiles are active: dev (org.springframework.boot.SpringApplication.logStartupProfileInfo:666) [main:3368]
+2018-11-20 14:07:04  INFO - Starting Application on LAPTOP-4NKCBKCL with PID 22272 (D:\07-myTutorial\00-github\blog\springbootdemo8\target\classes started by 28956 in D:\07-myTutorial\00-github\blog\springbootdemo8) (org.springframework.boot.StartupInfoLogger.logStarting:50) [main:3134]
+2018-11-20 14:07:04  INFO - No active profile set, falling back to default profiles: default (org.springframework.boot.SpringApplication.logStartupProfileInfo:662) [main:3219]

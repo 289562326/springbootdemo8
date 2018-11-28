@@ -1,0 +1,48 @@
+2018-11-20 13:57:21 ERROR - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 1 of constructor in org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration required a bean of type 'org.springframework.boot.autoconfigure.web.servlet.DispatcherServletPath' that could not be found.
+	- Bean method 'dispatcherServletRegistration' not loaded because DispatcherServlet Registration found non dispatcher servlet dispatcherServlet
+
+
+Action:
+
+Consider revisiting the entries above or defining a bean of type 'org.springframework.boot.autoconfigure.web.servlet.DispatcherServletPath' in your configuration.
+ (org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter.report:42) [main:10425]
+2018-11-20 13:58:48 ERROR - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 1 of constructor in org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration required a bean of type 'org.springframework.boot.autoconfigure.web.servlet.DispatcherServletPath' that could not be found.
+	- Bean method 'dispatcherServletRegistration' not loaded because DispatcherServlet Registration found non dispatcher servlet dispatcherServlet
+
+
+Action:
+
+Consider revisiting the entries above or defining a bean of type 'org.springframework.boot.autoconfigure.web.servlet.DispatcherServletPath' in your configuration.
+ (org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter.report:42) [main:7442]
+2018-11-20 14:07:08 ERROR - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 1 of constructor in org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration required a bean of type 'org.springframework.boot.autoconfigure.web.servlet.DispatcherServletPath' that could not be found.
+	- Bean method 'dispatcherServletRegistration' not loaded because DispatcherServlet Registration found non dispatcher servlet dispatcherServlet
+
+
+Action:
+
+Consider revisiting the entries above or defining a bean of type 'org.springframework.boot.autoconfigure.web.servlet.DispatcherServletPath' in your configuration.
+ (org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter.report:42) [main:6974]
